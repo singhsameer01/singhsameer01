@@ -2,7 +2,7 @@ public class AboutMe {
 
     public static void main(String[] args) {
         System.out.println("""
-            👋 Hi, I'm [Your Name] — AI Assistant
+            👋 Hi, I'm Sameer Kumar Singh — AI Assistant
             
             I’m a backend-focused developer with hands-on experience building robust services and AI-driven solutions.
             
@@ -28,9 +28,8 @@ public class AboutMe {
             - Performance-aware, with metrics and tracing in mind
             
             Let’s connect:
-            - GitHub: https://github.com/your-username
-            - LinkedIn: https://www.linkedin.com/in/your-handle
-            - Email: your.email@example.com
+            - LinkedIn: https://www.linkedin.com/in/sameer01singh
+            - Email: singhsameer3726@gmail.com
             
             Pinned ideas to explore:
             - Spring Boot + Postgres service with OpenAPI-first design
